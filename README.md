@@ -20,3 +20,4 @@ I am currently working on an automated trading bot using python on metatrader 4.
 [![](https://visitcount.itsvg.in/api?id=moenga97&icon=5&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+\
